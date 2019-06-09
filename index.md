@@ -45,7 +45,7 @@ Algunos tienen la matemática ligeramente boceteada y algunos cientos de lineas 
 - Data analysis
 - Transport phenomena
 - Aerodynamics
-- Robotic?
+- Robotics?
 - Exorcismos de esti(l)o**
 - Python!!! (matlab, R, javascript, ¡ah! y quiero Julia, java, react)
 
