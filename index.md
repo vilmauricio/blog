@@ -9,6 +9,9 @@ Si hay que salir mas vale que sea a la monta√±a o a comer o a comer en la monta√
 
 La idea de mostrar movimientos actuales y pasados en trabajos propios (y compartidos) es encontrar personas, proyectos y/o colaboraciones que permitan crecer, retomar y generar mas proyectos.
 
+self-description<br>
+<img src="https://imgs.xkcd.com/comics/self_description.png" width="600" />
+
 # Proyectos activos
 
 ## Incyclo SAS
